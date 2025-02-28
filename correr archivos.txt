@@ -1,0 +1,4 @@
+verificar la version de python3 -- version 
+posicionarse en la carpeta contenedora 
+en termina ya en la ruta, ejecutar el archivo .py elegido 
+python3 view.py
